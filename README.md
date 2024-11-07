@@ -41,3 +41,5 @@ I'm currently working on:
 ## ☕ Support Me
 If you like my work, you can buy me a coffee!  
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
+![Footer Image](https://github.com/YourUsername/YourRepoName/path/to/your/image.png)
