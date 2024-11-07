@@ -3,25 +3,34 @@
 
 I am a Computer Sicence and hon's graduate with a passion for coding, design, and innovation. I love tackling challenges, learning new skills, and meeting people to exchange ideas. I’m constantly looking to grow and share positivity.
 
-## What I'm doing
+I'm currently working on:
 - 🌱 Working on a Sofftware Engeenring in singapore company 
 - 🌟 Learning ReactJS, Machine Learning, and .NET.
 - 🤝 Looking to collaborate on Android apps and web application development.
-- 📫 Reach me at: [lsandaruwan388@gmail.com]
-- 😄 Find me on [LinkedIn](linkedin.com/in/lahiru-sandaruwan-a92a57246)
+- 🌱 A MongoDB-powered application that involves efficient data management.
+- 💻 React-based web app with real-time updates and responsive design.
+- 🛠 Integration with a custom backend using Node.js and Express.
 
-## Languages and Tools:
-![JavaScript](url-to-js-icon) ![React](url-to-react-icon) ![MySQL](url-to-mysql-icon) ![Git](url-to-git-icon) 
 
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-<!-- Add more as needed -->
+- ## 💬 Let's Connect!
+- 📧 Reach me: [sandaruwan388@gmail.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/lahiru-sandaruwan-a92a57246)
+- 🌐 Portfolio: [Your Portfolio](https://portfolio-sanda.vercel.app/)
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+## 🛠 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- Add other tools as needed -->
+</p>
 
 ## 🚀 Current Projects
-- [XPAC](https://github.com/yourusername/XPAC) - A cool project I’m currently working on.
+- [XPAC Technology](https://github.com/yourusername/XPAC) - A cool project I’m currently working on.
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   - ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
