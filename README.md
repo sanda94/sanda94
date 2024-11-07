@@ -12,9 +12,10 @@ I am a Computer Sicence and hon's graduate with a passion for coding, design, an
 
 ## Languages and Tools:
 ![JavaScript](url-to-js-icon) ![React](url-to-react-icon) ![MySQL](url-to-mysql-icon) ![Git](url-to-git-icon) 
-<!-- Add more as needed -->
+
 ## 📊 GitHub Stats
-![lsandauruwan GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+<!-- Add more as needed -->
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
