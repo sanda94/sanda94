@@ -13,7 +13,7 @@ I'm currently working on:
 
 
 - ## 💬 Let's Connect!
-- 📧 Reach me: [sandaruwan388@gmail.com](mailto:your-email@example.com)
+- 📧 Reach me: [lsandaruwan388@gmail.com](mailto:your-email@example.com)
 - 💼 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/lahiru-sandaruwan-a92a57246)
 - 🌐 Portfolio: [Your Portfolio](https://portfolio-sanda.vercel.app/)
 
